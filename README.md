@@ -28,9 +28,14 @@
 ## 🎯 My Goals
 - Launch a portfolio of real-world projects that blend data and storytelling
 - Land a data analyst role in the music or entertainment industry
-- Support brands and creators with data that drives *actionable insights*
+- Continue learning new tools, refining my analytical thinking, and growing as both a data professional and creative problem solver
 
 ---
+
+## 📄 Resume
+You can view or download my resume [here (PDF)](Summer25Resume.pdf)
+
+--- 
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/maryebridges0/)
