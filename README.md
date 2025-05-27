@@ -15,13 +15,12 @@
 ---
 
 ## 📁 Featured Projects
+You can find these projects—and track their progress—pinned on my GitHub profile just below!
 - 🎧 **Streaming Revenue Breakdown (WIP)**  
   Exploring how Spotify, YouTube, and Apple Music distribute revenue, and what it means for artists. *(Coming soon!)*
 
 - 📈 **Northwind Traders Sales Analysis (Team Project)**  
   Built an interactive Tableau dashboard for Northwind Traders to identify underperforming product categories and set sales goals.
-
-
 
 ---
 
