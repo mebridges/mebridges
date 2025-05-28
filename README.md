@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tools & Skills
-- **Languages:** SQL, Python (Pandas, NumPy), Excel
+- **Languages:** SQL (MS SQL Server, PostgreSQL), Python (Pandas, NumPy), Excel
 - **Visualization:** Tableau
 - **Concepts:** Data wrangling, exploratory analysis, trend forecasting
 - **Soft skills:** Communication, leadership, project management
